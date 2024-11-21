@@ -20,6 +20,7 @@
 
 <h2>Purpose:</h2>
 <p>The project was created as part of my journey to learn and explore React.js, with a focus on building interactive and dynamic web applications. It also demonstrates the integration of a web3 form for receiving inquiries from visitors.</p>
+</br>
 
 
 <a name="br1"></a> 
