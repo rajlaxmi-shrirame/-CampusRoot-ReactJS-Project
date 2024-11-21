@@ -22,15 +22,6 @@
 <p>The project was created as part of my journey to learn and explore React.js, with a focus on building interactive and dynamic web applications. It also demonstrates the integration of a web3 form for receiving inquiries from visitors.</p>
 </br>
 
-<h2>Photos Of Website:</h2>
-<ul>
-<strong>Home Section:</strong>
-![Home Section](https://github.com/rajlaxmi-shrirame/-CampusRoot-ReactJS-Project/blob/master/samples/homesection.png)
-</ul>
-
-
-
-</br>
 <a name="br1"></a> 
 
 **How to Run this Project**
