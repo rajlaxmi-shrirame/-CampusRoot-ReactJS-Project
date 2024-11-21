@@ -46,7 +46,6 @@
 
 ○ Right Click on Sidebar > Select “Open In Integrated Terminal”
 
-![]
 <a name="br2"></a> 
 
 3\. Type “**npm install**” and press Enter and Wait for Installation to be completed (requires
